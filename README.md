@@ -1,4 +1,4 @@
-# ROOT A40 STEPS
+# ROOT SAMSUNG A40 STEPS
 
 ## Prerequisites
 
